@@ -11,6 +11,6 @@ module.exports = {
   getWardsByDistrictCode: (districtCode) => wards.filter(x => x.district_code == districtCode),
   getWardsByProvinceCode: (provinceCode) => wards.filter(x => x.province_code == provinceCode),
   getWardsByCode: (wardCode) => wards.find(x => x.code == wardCode),
-  getCityByCode: (cityCode) => provinces.find(x => x.code == wardCode),
+  getCityByCode: (cityCode) => provinces.find(x => x.code == cityCode),
   getDistrictByCode: (districtCode) => districts.find(x => x.code == districtCode),
 };
