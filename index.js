@@ -9,5 +9,8 @@ module.exports = {
   getProvincesWithDetail: () => tree,
   getDistrictsByProvinceCode: (provinceCode) => districts.filter(x => x.province_code == provinceCode),
   getWardsByDistrictCode: (districtCode) => wards.filter(x => x.district_code == districtCode),
-  getWardsByProvinceCode: (provinceCode) => wards.filter(x => x.province_code == provinceCode)
+  getWardsByProvinceCode: (provinceCode) => wards.filter(x => x.province_code == provinceCode),
+  getWardsByByCode: (wardCode) => wards.find(x => x.code == wardCode),
+  getCityByByCode: (cityCode) => provinces.find(x => x.code == wardCode),
+  getDistrictByByCode: (districtCode) => districts.find(x => x.code == districtCode),
 };
