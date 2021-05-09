@@ -1,8 +1,8 @@
 [
   {
     "code": "01",
-    "name": "Thành phố Hà Nội",
-    "unit": "Thành phố Trung ương"
+    "name": "TP Hà Nội",
+    "unit": "TP Trung ương"
   },
   {
     "code": "02",
@@ -96,8 +96,8 @@
   },
   {
     "code": "31",
-    "name": "Thành phố Hải Phòng",
-    "unit": "Thành phố Trung ương"
+    "name": "TP Hải Phòng",
+    "unit": "TP Trung ương"
   },
   {
     "code": "33",
@@ -156,8 +156,8 @@
   },
   {
     "code": "48",
-    "name": "Thành phố Đà Nẵng",
-    "unit": "Thành phố Trung ương"
+    "name": "TP Đà Nẵng",
+    "unit": "TP Trung ương"
   },
   {
     "code": "49",
@@ -246,8 +246,8 @@
   },
   {
     "code": "79",
-    "name": "Thành phố Hồ Chí Minh",
-    "unit": "Thành phố Trung ương"
+    "name": "TP Hồ Chí Minh",
+    "unit": "TP Trung ương"
   },
   {
     "code": "80",
@@ -291,8 +291,8 @@
   },
   {
     "code": "92",
-    "name": "Thành phố Cần Thơ",
-    "unit": "Thành phố Trung ương"
+    "name": "TP Cần Thơ",
+    "unit": "TP Trung ương"
   },
   {
     "code": "93",
