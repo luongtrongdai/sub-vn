@@ -1,0 +1,17 @@
+[
+  {
+    "code": "01",
+    "name": "Miền Bắc",
+    "unit": "Vùng"
+  },
+  {
+    "code": "02",
+    "name": "Miền Trung",
+    "unit": "Vùng"
+  },
+  {
+    "code": "03",
+    "name": "Miền Nam",
+    "unit": "Vùng"
+  }
+]

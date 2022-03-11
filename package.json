@@ -17,7 +17,11 @@
     "vietnam cities",
     "vietnam districts",
     "vietnam wards",
-    "tỉnh", "huyện", "quận", "xã", "phường"
+    "tỉnh",
+    "huyện",
+    "quận",
+    "xã",
+    "phường"
   ],
   "repository": {
     "type": "git",
