@@ -121,7 +121,7 @@ wards.forEach(ward => {
 });
 fs.writeFileSync(
   path.resolve(JSON_PATH, "treeWithArea.json"),
-  JSON.stringify(tree, null, 2)
+  JSON.stringify(treeWithArea, null, 2)
 );
 
 
