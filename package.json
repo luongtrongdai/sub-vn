@@ -1,6 +1,6 @@
 {
   "name": "sub-vn",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Vietnam Provinces, Cities, Districts, Wards",
   "main": "index.js",
   "scripts": {
