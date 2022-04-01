@@ -21,7 +21,8 @@ files.forEach(file_name => {
       .map(x => ({
         code: x["Mã"],
         name: x["Tên"],
-        unit: x["Cấp"]
+        unit: x["Cấp"],
+        path: `/${x["Mã"]}`
       }))
       .filter(x => x.code);
     fs.writeFileSync(
@@ -40,7 +41,8 @@ files.forEach(file_name => {
         unit: x["Cấp"],
         area_code: x["Mã vùng"],
         area_name: x["Vùng"],
-        full_name: `${x["Tên"]}, ${x["Vùng"]}`
+        full_name: `${x["Tên"]}, ${x["Vùng"]}`,
+        path: `/${x["Mã vùng"]}/${x["Mã"]}`
       }))
       .filter(x => x.code);
     fs.writeFileSync(
@@ -61,7 +63,8 @@ files.forEach(file_name => {
         province_name: x["Tỉnh / Thành Phố"],
         area_code: x["Mã vùng"],
         area_name: x["Vùng"],
-        full_name: `${x["Tên"]}, ${x["Tỉnh / Thành Phố"]}, ${x["Vùng"]}`
+        full_name: `${x["Tên"]}, ${x["Tỉnh / Thành Phố"]}, ${x["Vùng"]}`,
+        path: `/${x["Mã vùng"]}/${x["Mã TP"]}/${x["Mã"]}`
       }))
       .filter(x => x.code);
     fs.writeFileSync(
@@ -83,7 +86,8 @@ files.forEach(file_name => {
         province_name: x["Tỉnh / Thành Phố"],
         area_code: x["Mã vùng"],
         area_name: x["Vùng"],
-        full_name: `${x["Tên"]}, ${x["Quận Huyện"]}, ${x["Tỉnh / Thành Phố"]}, ${x["Vùng"]}`
+        full_name: `${x["Tên"]}, ${x["Quận Huyện"]}, ${x["Tỉnh / Thành Phố"]}, ${x["Vùng"]}`,
+        path: `/${x["Mã vùng"]}/${x["Mã TP"]}/${x["Mã QH"]}/${x["Mã"]}`
       }))
       .filter(x => x.code);
     fs.writeFileSync(

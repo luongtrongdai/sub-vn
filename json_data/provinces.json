@@ -5,7 +5,8 @@
     "unit": "Thành phố Trung ương",
     "area_code": "01",
     "area_name": "Miền Bắc",
-    "full_name": "Thành phố Hà Nội, Miền Bắc"
+    "full_name": "Thành phố Hà Nội, Miền Bắc",
+    "path": "/01/01"
   },
   {
     "code": "02",
@@ -13,7 +14,8 @@
     "unit": "Tỉnh",
     "area_code": "01",
     "area_name": "Miền Bắc",
-    "full_name": "Tỉnh Hà Giang, Miền Bắc"
+    "full_name": "Tỉnh Hà Giang, Miền Bắc",
+    "path": "/01/02"
   },
   {
     "code": "04",
@@ -21,7 +23,8 @@
     "unit": "Tỉnh",
     "area_code": "01",
     "area_name": "Miền Bắc",
-    "full_name": "Tỉnh Cao Bằng, Miền Bắc"
+    "full_name": "Tỉnh Cao Bằng, Miền Bắc",
+    "path": "/01/04"
   },
   {
     "code": "06",
@@ -29,7 +32,8 @@
     "unit": "Tỉnh",
     "area_code": "01",
     "area_name": "Miền Bắc",
-    "full_name": "Tỉnh Bắc Kạn, Miền Bắc"
+    "full_name": "Tỉnh Bắc Kạn, Miền Bắc",
+    "path": "/01/06"
   },
   {
     "code": "08",
@@ -37,7 +41,8 @@
     "unit": "Tỉnh",
     "area_code": "01",
     "area_name": "Miền Bắc",
-    "full_name": "Tỉnh Tuyên Quang, Miền Bắc"
+    "full_name": "Tỉnh Tuyên Quang, Miền Bắc",
+    "path": "/01/08"
   },
   {
     "code": "10",
@@ -45,7 +50,8 @@
     "unit": "Tỉnh",
     "area_code": "01",
     "area_name": "Miền Bắc",
-    "full_name": "Tỉnh Lào Cai, Miền Bắc"
+    "full_name": "Tỉnh Lào Cai, Miền Bắc",
+    "path": "/01/10"
   },
   {
     "code": "11",
@@ -53,7 +59,8 @@
     "unit": "Tỉnh",
     "area_code": "01",
     "area_name": "Miền Bắc",
-    "full_name": "Tỉnh Điện Biên, Miền Bắc"
+    "full_name": "Tỉnh Điện Biên, Miền Bắc",
+    "path": "/01/11"
   },
   {
     "code": "12",
@@ -61,7 +68,8 @@
     "unit": "Tỉnh",
     "area_code": "01",
     "area_name": "Miền Bắc",
-    "full_name": "Tỉnh Lai Châu, Miền Bắc"
+    "full_name": "Tỉnh Lai Châu, Miền Bắc",
+    "path": "/01/12"
   },
   {
     "code": "14",
@@ -69,7 +77,8 @@
     "unit": "Tỉnh",
     "area_code": "01",
     "area_name": "Miền Bắc",
-    "full_name": "Tỉnh Sơn La, Miền Bắc"
+    "full_name": "Tỉnh Sơn La, Miền Bắc",
+    "path": "/01/14"
   },
   {
     "code": "15",
@@ -77,7 +86,8 @@
     "unit": "Tỉnh",
     "area_code": "01",
     "area_name": "Miền Bắc",
-    "full_name": "Tỉnh Yên Bái, Miền Bắc"
+    "full_name": "Tỉnh Yên Bái, Miền Bắc",
+    "path": "/01/15"
   },
   {
     "code": "17",
@@ -85,7 +95,8 @@
     "unit": "Tỉnh",
     "area_code": "01",
     "area_name": "Miền Bắc",
-    "full_name": "Tỉnh Hoà Bình, Miền Bắc"
+    "full_name": "Tỉnh Hoà Bình, Miền Bắc",
+    "path": "/01/17"
   },
   {
     "code": "19",
@@ -93,7 +104,8 @@
     "unit": "Tỉnh",
     "area_code": "01",
     "area_name": "Miền Bắc",
-    "full_name": "Tỉnh Thái Nguyên, Miền Bắc"
+    "full_name": "Tỉnh Thái Nguyên, Miền Bắc",
+    "path": "/01/19"
   },
   {
     "code": "20",
@@ -101,7 +113,8 @@
     "unit": "Tỉnh",
     "area_code": "01",
     "area_name": "Miền Bắc",
-    "full_name": "Tỉnh Lạng Sơn, Miền Bắc"
+    "full_name": "Tỉnh Lạng Sơn, Miền Bắc",
+    "path": "/01/20"
   },
   {
     "code": "22",
@@ -109,7 +122,8 @@
     "unit": "Tỉnh",
     "area_code": "01",
     "area_name": "Miền Bắc",
-    "full_name": "Tỉnh Quảng Ninh, Miền Bắc"
+    "full_name": "Tỉnh Quảng Ninh, Miền Bắc",
+    "path": "/01/22"
   },
   {
     "code": "24",
@@ -117,7 +131,8 @@
     "unit": "Tỉnh",
     "area_code": "01",
     "area_name": "Miền Bắc",
-    "full_name": "Tỉnh Bắc Giang, Miền Bắc"
+    "full_name": "Tỉnh Bắc Giang, Miền Bắc",
+    "path": "/01/24"
   },
   {
     "code": "25",
@@ -125,7 +140,8 @@
     "unit": "Tỉnh",
     "area_code": "01",
     "area_name": "Miền Bắc",
-    "full_name": "Tỉnh Phú Thọ, Miền Bắc"
+    "full_name": "Tỉnh Phú Thọ, Miền Bắc",
+    "path": "/01/25"
   },
   {
     "code": "26",
@@ -133,7 +149,8 @@
     "unit": "Tỉnh",
     "area_code": "01",
     "area_name": "Miền Bắc",
-    "full_name": "Tỉnh Vĩnh Phúc, Miền Bắc"
+    "full_name": "Tỉnh Vĩnh Phúc, Miền Bắc",
+    "path": "/01/26"
   },
   {
     "code": "27",
@@ -141,7 +158,8 @@
     "unit": "Tỉnh",
     "area_code": "01",
     "area_name": "Miền Bắc",
-    "full_name": "Tỉnh Bắc Ninh, Miền Bắc"
+    "full_name": "Tỉnh Bắc Ninh, Miền Bắc",
+    "path": "/01/27"
   },
   {
     "code": "30",
@@ -149,7 +167,8 @@
     "unit": "Tỉnh",
     "area_code": "01",
     "area_name": "Miền Bắc",
-    "full_name": "Tỉnh Hải Dương, Miền Bắc"
+    "full_name": "Tỉnh Hải Dương, Miền Bắc",
+    "path": "/01/30"
   },
   {
     "code": "31",
@@ -157,7 +176,8 @@
     "unit": "Thành phố Trung ương",
     "area_code": "01",
     "area_name": "Miền Bắc",
-    "full_name": "Thành phố Hải Phòng, Miền Bắc"
+    "full_name": "Thành phố Hải Phòng, Miền Bắc",
+    "path": "/01/31"
   },
   {
     "code": "33",
@@ -165,7 +185,8 @@
     "unit": "Tỉnh",
     "area_code": "01",
     "area_name": "Miền Bắc",
-    "full_name": "Tỉnh Hưng Yên, Miền Bắc"
+    "full_name": "Tỉnh Hưng Yên, Miền Bắc",
+    "path": "/01/33"
   },
   {
     "code": "34",
@@ -173,7 +194,8 @@
     "unit": "Tỉnh",
     "area_code": "01",
     "area_name": "Miền Bắc",
-    "full_name": "Tỉnh Thái Bình, Miền Bắc"
+    "full_name": "Tỉnh Thái Bình, Miền Bắc",
+    "path": "/01/34"
   },
   {
     "code": "35",
@@ -181,7 +203,8 @@
     "unit": "Tỉnh",
     "area_code": "01",
     "area_name": "Miền Bắc",
-    "full_name": "Tỉnh Hà Nam, Miền Bắc"
+    "full_name": "Tỉnh Hà Nam, Miền Bắc",
+    "path": "/01/35"
   },
   {
     "code": "36",
@@ -189,7 +212,8 @@
     "unit": "Tỉnh",
     "area_code": "01",
     "area_name": "Miền Bắc",
-    "full_name": "Tỉnh Nam Định, Miền Bắc"
+    "full_name": "Tỉnh Nam Định, Miền Bắc",
+    "path": "/01/36"
   },
   {
     "code": "37",
@@ -197,7 +221,8 @@
     "unit": "Tỉnh",
     "area_code": "01",
     "area_name": "Miền Bắc",
-    "full_name": "Tỉnh Ninh Bình, Miền Bắc"
+    "full_name": "Tỉnh Ninh Bình, Miền Bắc",
+    "path": "/01/37"
   },
   {
     "code": "38",
@@ -205,7 +230,8 @@
     "unit": "Tỉnh",
     "area_code": "02",
     "area_name": "Miền Trung",
-    "full_name": "Tỉnh Thanh Hóa, Miền Trung"
+    "full_name": "Tỉnh Thanh Hóa, Miền Trung",
+    "path": "/02/38"
   },
   {
     "code": "40",
@@ -213,7 +239,8 @@
     "unit": "Tỉnh",
     "area_code": "02",
     "area_name": "Miền Trung",
-    "full_name": "Tỉnh Nghệ An, Miền Trung"
+    "full_name": "Tỉnh Nghệ An, Miền Trung",
+    "path": "/02/40"
   },
   {
     "code": "42",
@@ -221,7 +248,8 @@
     "unit": "Tỉnh",
     "area_code": "02",
     "area_name": "Miền Trung",
-    "full_name": "Tỉnh Hà Tĩnh, Miền Trung"
+    "full_name": "Tỉnh Hà Tĩnh, Miền Trung",
+    "path": "/02/42"
   },
   {
     "code": "44",
@@ -229,7 +257,8 @@
     "unit": "Tỉnh",
     "area_code": "02",
     "area_name": "Miền Trung",
-    "full_name": "Tỉnh Quảng Bình, Miền Trung"
+    "full_name": "Tỉnh Quảng Bình, Miền Trung",
+    "path": "/02/44"
   },
   {
     "code": "45",
@@ -237,7 +266,8 @@
     "unit": "Tỉnh",
     "area_code": "02",
     "area_name": "Miền Trung",
-    "full_name": "Tỉnh Quảng Trị, Miền Trung"
+    "full_name": "Tỉnh Quảng Trị, Miền Trung",
+    "path": "/02/45"
   },
   {
     "code": "46",
@@ -245,7 +275,8 @@
     "unit": "Tỉnh",
     "area_code": "02",
     "area_name": "Miền Trung",
-    "full_name": "Tỉnh Thừa Thiên Huế, Miền Trung"
+    "full_name": "Tỉnh Thừa Thiên Huế, Miền Trung",
+    "path": "/02/46"
   },
   {
     "code": "48",
@@ -253,7 +284,8 @@
     "unit": "Thành phố Trung ương",
     "area_code": "02",
     "area_name": "Miền Trung",
-    "full_name": "Thành phố Đà Nẵng, Miền Trung"
+    "full_name": "Thành phố Đà Nẵng, Miền Trung",
+    "path": "/02/48"
   },
   {
     "code": "49",
@@ -261,7 +293,8 @@
     "unit": "Tỉnh",
     "area_code": "02",
     "area_name": "Miền Trung",
-    "full_name": "Tỉnh Quảng Nam, Miền Trung"
+    "full_name": "Tỉnh Quảng Nam, Miền Trung",
+    "path": "/02/49"
   },
   {
     "code": "51",
@@ -269,7 +302,8 @@
     "unit": "Tỉnh",
     "area_code": "02",
     "area_name": "Miền Trung",
-    "full_name": "Tỉnh Quảng Ngãi, Miền Trung"
+    "full_name": "Tỉnh Quảng Ngãi, Miền Trung",
+    "path": "/02/51"
   },
   {
     "code": "52",
@@ -277,7 +311,8 @@
     "unit": "Tỉnh",
     "area_code": "02",
     "area_name": "Miền Trung",
-    "full_name": "Tỉnh Bình Định, Miền Trung"
+    "full_name": "Tỉnh Bình Định, Miền Trung",
+    "path": "/02/52"
   },
   {
     "code": "54",
@@ -285,7 +320,8 @@
     "unit": "Tỉnh",
     "area_code": "02",
     "area_name": "Miền Trung",
-    "full_name": "Tỉnh Phú Yên, Miền Trung"
+    "full_name": "Tỉnh Phú Yên, Miền Trung",
+    "path": "/02/54"
   },
   {
     "code": "56",
@@ -293,7 +329,8 @@
     "unit": "Tỉnh",
     "area_code": "02",
     "area_name": "Miền Trung",
-    "full_name": "Tỉnh Khánh Hòa, Miền Trung"
+    "full_name": "Tỉnh Khánh Hòa, Miền Trung",
+    "path": "/02/56"
   },
   {
     "code": "58",
@@ -301,7 +338,8 @@
     "unit": "Tỉnh",
     "area_code": "02",
     "area_name": "Miền Trung",
-    "full_name": "Tỉnh Ninh Thuận, Miền Trung"
+    "full_name": "Tỉnh Ninh Thuận, Miền Trung",
+    "path": "/02/58"
   },
   {
     "code": "60",
@@ -309,7 +347,8 @@
     "unit": "Tỉnh",
     "area_code": "02",
     "area_name": "Miền Trung",
-    "full_name": "Tỉnh Bình Thuận, Miền Trung"
+    "full_name": "Tỉnh Bình Thuận, Miền Trung",
+    "path": "/02/60"
   },
   {
     "code": "62",
@@ -317,7 +356,8 @@
     "unit": "Tỉnh",
     "area_code": "02",
     "area_name": "Miền Trung",
-    "full_name": "Tỉnh Kon Tum, Miền Trung"
+    "full_name": "Tỉnh Kon Tum, Miền Trung",
+    "path": "/02/62"
   },
   {
     "code": "64",
@@ -325,7 +365,8 @@
     "unit": "Tỉnh",
     "area_code": "02",
     "area_name": "Miền Trung",
-    "full_name": "Tỉnh Gia Lai, Miền Trung"
+    "full_name": "Tỉnh Gia Lai, Miền Trung",
+    "path": "/02/64"
   },
   {
     "code": "66",
@@ -333,7 +374,8 @@
     "unit": "Tỉnh",
     "area_code": "02",
     "area_name": "Miền Trung",
-    "full_name": "Tỉnh Đắk Lắk, Miền Trung"
+    "full_name": "Tỉnh Đắk Lắk, Miền Trung",
+    "path": "/02/66"
   },
   {
     "code": "67",
@@ -341,7 +383,8 @@
     "unit": "Tỉnh",
     "area_code": "02",
     "area_name": "Miền Trung",
-    "full_name": "Tỉnh Đắk Nông, Miền Trung"
+    "full_name": "Tỉnh Đắk Nông, Miền Trung",
+    "path": "/02/67"
   },
   {
     "code": "68",
@@ -349,7 +392,8 @@
     "unit": "Tỉnh",
     "area_code": "02",
     "area_name": "Miền Trung",
-    "full_name": "Tỉnh Lâm Đồng, Miền Trung"
+    "full_name": "Tỉnh Lâm Đồng, Miền Trung",
+    "path": "/02/68"
   },
   {
     "code": "70",
@@ -357,7 +401,8 @@
     "unit": "Tỉnh",
     "area_code": "03",
     "area_name": "Miền Nam",
-    "full_name": "Tỉnh Bình Phước, Miền Nam"
+    "full_name": "Tỉnh Bình Phước, Miền Nam",
+    "path": "/03/70"
   },
   {
     "code": "72",
@@ -365,7 +410,8 @@
     "unit": "Tỉnh",
     "area_code": "03",
     "area_name": "Miền Nam",
-    "full_name": "Tỉnh Tây Ninh, Miền Nam"
+    "full_name": "Tỉnh Tây Ninh, Miền Nam",
+    "path": "/03/72"
   },
   {
     "code": "74",
@@ -373,7 +419,8 @@
     "unit": "Tỉnh",
     "area_code": "03",
     "area_name": "Miền Nam",
-    "full_name": "Tỉnh Bình Dương, Miền Nam"
+    "full_name": "Tỉnh Bình Dương, Miền Nam",
+    "path": "/03/74"
   },
   {
     "code": "75",
@@ -381,7 +428,8 @@
     "unit": "Tỉnh",
     "area_code": "03",
     "area_name": "Miền Nam",
-    "full_name": "Tỉnh Đồng Nai, Miền Nam"
+    "full_name": "Tỉnh Đồng Nai, Miền Nam",
+    "path": "/03/75"
   },
   {
     "code": "77",
@@ -389,7 +437,8 @@
     "unit": "Tỉnh",
     "area_code": "03",
     "area_name": "Miền Nam",
-    "full_name": "Tỉnh Bà Rịa - Vũng Tàu, Miền Nam"
+    "full_name": "Tỉnh Bà Rịa - Vũng Tàu, Miền Nam",
+    "path": "/03/77"
   },
   {
     "code": "79",
@@ -397,7 +446,8 @@
     "unit": "Thành phố Trung ương",
     "area_code": "03",
     "area_name": "Miền Nam",
-    "full_name": "Thành phố Hồ Chí Minh, Miền Nam"
+    "full_name": "Thành phố Hồ Chí Minh, Miền Nam",
+    "path": "/03/79"
   },
   {
     "code": "80",
@@ -405,7 +455,8 @@
     "unit": "Tỉnh",
     "area_code": "03",
     "area_name": "Miền Nam",
-    "full_name": "Tỉnh Long An, Miền Nam"
+    "full_name": "Tỉnh Long An, Miền Nam",
+    "path": "/03/80"
   },
   {
     "code": "82",
@@ -413,7 +464,8 @@
     "unit": "Tỉnh",
     "area_code": "03",
     "area_name": "Miền Nam",
-    "full_name": "Tỉnh Tiền Giang, Miền Nam"
+    "full_name": "Tỉnh Tiền Giang, Miền Nam",
+    "path": "/03/82"
   },
   {
     "code": "83",
@@ -421,7 +473,8 @@
     "unit": "Tỉnh",
     "area_code": "03",
     "area_name": "Miền Nam",
-    "full_name": "Tỉnh Bến Tre, Miền Nam"
+    "full_name": "Tỉnh Bến Tre, Miền Nam",
+    "path": "/03/83"
   },
   {
     "code": "84",
@@ -429,7 +482,8 @@
     "unit": "Tỉnh",
     "area_code": "03",
     "area_name": "Miền Nam",
-    "full_name": "Tỉnh Trà Vinh, Miền Nam"
+    "full_name": "Tỉnh Trà Vinh, Miền Nam",
+    "path": "/03/84"
   },
   {
     "code": "86",
@@ -437,7 +491,8 @@
     "unit": "Tỉnh",
     "area_code": "03",
     "area_name": "Miền Nam",
-    "full_name": "Tỉnh Vĩnh Long, Miền Nam"
+    "full_name": "Tỉnh Vĩnh Long, Miền Nam",
+    "path": "/03/86"
   },
   {
     "code": "87",
@@ -445,7 +500,8 @@
     "unit": "Tỉnh",
     "area_code": "03",
     "area_name": "Miền Nam",
-    "full_name": "Tỉnh Đồng Tháp, Miền Nam"
+    "full_name": "Tỉnh Đồng Tháp, Miền Nam",
+    "path": "/03/87"
   },
   {
     "code": "89",
@@ -453,7 +509,8 @@
     "unit": "Tỉnh",
     "area_code": "03",
     "area_name": "Miền Nam",
-    "full_name": "Tỉnh An Giang, Miền Nam"
+    "full_name": "Tỉnh An Giang, Miền Nam",
+    "path": "/03/89"
   },
   {
     "code": "91",
@@ -461,7 +518,8 @@
     "unit": "Tỉnh",
     "area_code": "03",
     "area_name": "Miền Nam",
-    "full_name": "Tỉnh Kiên Giang, Miền Nam"
+    "full_name": "Tỉnh Kiên Giang, Miền Nam",
+    "path": "/03/91"
   },
   {
     "code": "92",
@@ -469,7 +527,8 @@
     "unit": "Thành phố Trung ương",
     "area_code": "03",
     "area_name": "Miền Nam",
-    "full_name": "Thành phố Cần Thơ, Miền Nam"
+    "full_name": "Thành phố Cần Thơ, Miền Nam",
+    "path": "/03/92"
   },
   {
     "code": "93",
@@ -477,7 +536,8 @@
     "unit": "Tỉnh",
     "area_code": "03",
     "area_name": "Miền Nam",
-    "full_name": "Tỉnh Hậu Giang, Miền Nam"
+    "full_name": "Tỉnh Hậu Giang, Miền Nam",
+    "path": "/03/93"
   },
   {
     "code": "94",
@@ -485,7 +545,8 @@
     "unit": "Tỉnh",
     "area_code": "03",
     "area_name": "Miền Nam",
-    "full_name": "Tỉnh Sóc Trăng, Miền Nam"
+    "full_name": "Tỉnh Sóc Trăng, Miền Nam",
+    "path": "/03/94"
   },
   {
     "code": "95",
@@ -493,7 +554,8 @@
     "unit": "Tỉnh",
     "area_code": "03",
     "area_name": "Miền Nam",
-    "full_name": "Tỉnh Bạc Liêu, Miền Nam"
+    "full_name": "Tỉnh Bạc Liêu, Miền Nam",
+    "path": "/03/95"
   },
   {
     "code": "96",
@@ -501,6 +563,7 @@
     "unit": "Tỉnh",
     "area_code": "03",
     "area_name": "Miền Nam",
-    "full_name": "Tỉnh Cà Mau, Miền Nam"
+    "full_name": "Tỉnh Cà Mau, Miền Nam",
+    "path": "/03/96"
   }
 ]
