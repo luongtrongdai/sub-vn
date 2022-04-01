@@ -2,16 +2,19 @@
   {
     "code": "01",
     "name": "Miền Bắc",
-    "unit": "Vùng"
+    "unit": "Vùng",
+    "address_path": "/01"
   },
   {
     "code": "02",
     "name": "Miền Trung",
-    "unit": "Vùng"
+    "unit": "Vùng",
+    "address_path": "/02"
   },
   {
     "code": "03",
     "name": "Miền Nam",
-    "unit": "Vùng"
+    "unit": "Vùng",
+    "address_path": "/03"
   }
 ]
